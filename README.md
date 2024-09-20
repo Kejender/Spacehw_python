@@ -9,11 +9,11 @@ Note also that it is only a snapshot from September 2024.
 In this repository there are Jypyter Notebook and plain Python versions of browser app. They can be used to
 browse the data file and to create vocabularies from the data.
 
-##Browsing apps:
+## Browsing apps:
 * osdr_browser3.ipynb
 * osdr.py
 
-##Vocabulary creation apps:
+## Vocabulary creation apps:
 * osdr_vocabulary.ipynb
 * vocab.py
 
