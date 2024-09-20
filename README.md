@@ -10,12 +10,12 @@ In this repository there are Jypyter Notebook and plain Python versions of brows
 browse the data file and to create vocabularies from the data.
 
 ##Browsing apps:
-*osdr_browser3.ipynb
-*osdr.py
+* osdr_browser3.ipynb
+* osdr.py
 
 ##Vocabulary creation apps:
-*osdr_vocabulary.ipynb
-*vocab.py
+* osdr_vocabulary.ipynb
+* vocab.py
 
 Python 3 is required.
 
@@ -26,10 +26,10 @@ requirements.txt lists the needed Python packages, To install them locally or in
 If you are using Anaconda, you can install them in Anaconda Navigator. Note that most of the packages are dependcies to
 other packages and Anaconda can resolve them automatically. The list of main packages:
 
-*nltk==3.9.1
-*numpy==2.1.1
-*pandas==2.2.2
-*tabulate==0.9.0
+* nltk==3.9.1
+* numpy==2.1.1
+* pandas==2.2.2
+* tabulate==0.9.0
 
 You might need to download some nltk resources manually. If you get any errors regarding nltk when running the programs, there
 is usually a download command listed in the error message.
